@@ -41,14 +41,4 @@ contoh codingan boolean di Javascript
  ![Screenshot 2024-03-29 182925](https://github.com/anafebrisalusi/Ana-Febri-S-TI-1B/assets/165301550/6894450e-7fd4-4555-8959-05b3e7382018)
 
 Boolean adalah tipe data dalam JavaScript yang mewakili dua nilai: true atau false. Ini adalah dasar dari logika dalam pemrograman JavaScript dan digunakan untuk mengendalikan alur program dengan melakukan evaluasi kondisi.
-
-
 jarak, dan banyak lagi.
-
-c. JavaScript:
-
-JavaScript adalah bahasa pemrograman yang sering digunakan untuk membuat halaman web interaktif dan dinamis. JavaScript dapat digunakan untuk 
-menambahkan fungsi-fungsi seperti validasi formulir, animasi, manipulasi elemen HTML, interaksi dengan pengguna, dan masih banyak lagi. 
-Ini adalah bahasa yang dikerjakan di sisi klien, yang berarti kode dieksekusi di browser pengguna.
-
-Kita mempraktikan satu persatu w3school menggunakan visual studio code. Hasilnya berada pada file diatas.
