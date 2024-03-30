@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <table border="1" style="width:100px;">
+        <tr>
+            <th>T</th>
+            <th>K</th>
+        </tr>
+        <tr>
+            <td id="a">50</td>
+            <td id="b">4</td>
+        </tr>
+        <tr>
+            <td>94</td>
+            <td>92</td>
+        </tr>
+        </table><br>
+
+        <script>
+            let t=document.getElementById("a").innerHTML;
+            let k=document.getElementById("b").innerHTML;
+            let hasil=(t,k);
+            document.write("Nilai T adalah =" + t,"<br>");
+            document.write("Nilai K adalah =" + k,"<br>");
+
+            function func(t,k){
+                return t + k;
+            }
+            let hitung=func(50,4);
+
+            function ana(){
+                alert(" Hasil t*k=" + hitung);
+            }
+            
+        </script><br>
+        <button onclick="ana()">Hitung</button>
+</body>
+</html>
